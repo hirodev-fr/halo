@@ -23,7 +23,7 @@
     "@orpc/tanstack-query": "^1.15.6",
     "@tanstack/svelte-form": "^1.33.5",
     "@tanstack/svelte-query": "^6.1.48",
-    "@varlock/vite-integration": "1.5.4",
+    "@varlock/vite-integration": "1.5.5",
     "better-auth": "catalog:",
     "varlock": "catalog:",
     "zod": "catalog:"
