@@ -10,7 +10,7 @@
     "check-types": "tsc -b"
   },
   "dependencies": {
-    "@better-auth/core": "1.7.12",
+    "@better-auth/core": "1.7.18",
     "@better-auth/drizzle-adapter": "1.7.12",
     "@halo/db": "workspace:*",
     "better-auth": "catalog:",
