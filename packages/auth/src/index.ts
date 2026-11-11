@@ -21,6 +21,8 @@ export const createAuth = (
         sameSite: "none",
         secure: true,
       },
+      disableCSRFCheck: false,
+      disableOriginCheck: false,
     },
     baseURL: env.BETTER_AUTH_URL,
     database: drizzleAdapter(database, {
