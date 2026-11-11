@@ -1,6 +1,6 @@
 # Release and rollback
 
-This is a preliminary source-control runbook, not a deployment procedure. Hosting, deployment ownership, domain, protected environments, staging and production resources, and credentials must be selected before deploying.
+This is a preliminary source-control runbook, not a deployment procedure. See [deployment preparation](deployment.md) for environment, migration, backup, and monitoring requirements. Hosting, deployment ownership, domain, protected environments, staging and production resources, and credentials must be selected before deploying.
 
 ## Release
 

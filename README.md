@@ -68,7 +68,7 @@ Run standalone Node/Bun tools that use Varlock from the owning app directory so 
 
 Environment variables are read from each app's `.env` file (baked into web builds for public variables) and overridden in `docker-compose.yml` for container networking.
 
-For more details, see the guide on [Deploying with Docker Compose](https://www.better-t-stack.dev/docs/guides/docker).
+The Compose stack is for local development. See [deployment preparation](docs/deployment.md) for environment separation, migrations, backups, monitoring, and rollback.
 
 ## Git Hooks and Formatting
 
